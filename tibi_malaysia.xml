@@ -1,64 +1,136 @@
-CHANNEL5,http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
-CHANNEL8,http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
-CHANNELU,http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
-SURIA,p2p://96.44.141.58:6038/56f8ec9100057ac22d8183fe0fa436c9.ts
-TV1,http://rtm-live.glueapi.io/smil:rtm-ch001.smil/playlist.m3u8#p2p://96.44.141.58:6038/56f8f1420007f6502d93d80753783d2c.ts
-TV2,http://rtm-live.glueapi.io/smil:rtm-ch002.smil/playlist.m3u8#p2p://96.44.141.58:6038/56f8f10d000d592d2d930a6c16b430c0.ts
-TV3,p2p://103.254.153.214:9999/56f8f0da000c674d2d9242ea42c5177c#p2p://96.44.141.58:6038/56f8f0da000c674d2d9242ea42c5177c.ts#p2p://96.44.141.58:6038/56fc08f300076a9739a86354396909e9.ts
-TV9,p2p://103.254.153.214:9999/56f8ef060002a0282d8b1c474f7666c0#p2p://96.44.141.58:6038/56f8ef060002a0282d8b1c474f7666c0.ts
-NTV7,p2p://96.44.141.58:6038/56f8efab000228c42d8da0b232290852.ts#p2p://122.114.113.182:9999/56f8efab000228c42d8da0b232290852
-8TV,p2p://96.44.141.58:6038/56f8ef71000992122d8cc01459994b8c.ts
-ASTRO RIA,p2p://96.44.141.58:6038/573c267d00070a1b0023f88156546552.ts#p2p://122.114.113.182:9999/56f8f093000c82682d912da569cb0446
-ASTRO OASIS,p2p://96.44.141.58:6038/56f8f00400069dcf2d8efd81340b7d3f.ts#p2p://122.114.113.182:9999/56f8f00400069dcf2d8efd81340b7d3f
-ASTRO PRIMA,p2p://96.44.141.58:6038/56f8f03e0009045d2d8fe0ae75b2270e.ts#p2p://122.114.113.182:9999/56f8f03e0009045d2d8fe0ae75b2270e
-ASTRO WARNA,p2p://96.44.141.58:6038/56f8ee52000d3de82d885feb57546824.ts
-ASTRO BOLLYWOOD,p2p://96.44.141.58:6038/56f8cf7800003e9c2d0fd8fe030340b6.ts
-ASTRO AWANI,p2p://96.44.141.58:6038/56f8baa400015fcb2cbe7d273cd53b06.ts#p2p://122.114.113.182:9999/56f8baa400015fcb2cbe7d273cd53b06
-ASTRO CITRA,p2p://96.44.141.58:6038/56f8ee920002bced2d8957340b675cd0.ts#p2p://122.114.113.182:9999/56f8ee920002bced2d8957340b675cd0
-ASTRO MUSTIKA,p2p://96.44.141.58:6038/56f8edb5000314462d85f805644d3cfd.ts#p2p://96.44.141.58:6038/56fc0a0a0001ec1839aca3be31d7473c.ts
-ASTRO MAYA,p2p://96.44.141.58:6038/56f8ed60000c4c532d84ae58507f0d1c.ts#p2p://122.114.113.182:9999/56f8ed60000c4c532d84ae58507f0d1c
-ASTRO TV IQ,p2p://96.44.141.58:6038/56f8b348000bf7d42ca1c07d33f14463.ts
-ASTRO CERIA,p2p://96.44.141.58:6038/56f8b3130002a4da2ca0ef1b1662514c.ts
-ASTRO BOX OFFICE,p2p://96.44.141.58:6038/56f8eecd0001e3a12d8a3d7d3c702bec.ts
-ASTRO AEC,p2p://96.44.141.58:6038/56f8cef500005fd72d0dd94c1c862500.ts#p2p://96.44.141.58:6038/56f8ce32000748e02d0ae16728c25777.ts
-ASTRO\u5609\u4e3d\u53f0,p2p://96.44.141.58:6038/56f8cebb0003c5bf2d0cf7a5703557bb.ts
-ASTRO\u53cc\u661f,p2p://96.44.141.58:6038/56f8cdee000405522d09d6eb6fac0906.ts
-ASTRO\u5168\u4f73,p2p://96.44.141.58:6038/56f8cdb4000d47502d08f6bb59ac5cdc.ts
-ASTRO\u534e\u4e3d,p2p://96.44.141.58:6038/56f8ccd8000d8f412d059b7278944995.ts#p2p://96.44.141.58:6038/56f8cca6000d5d052d04d81477d162f6.ts
-ASTRO\u6b22\u559c,p2p://96.44.141.58:6038/56f8c83a0007b0cd2cf390b872ef7668.ts#p2p://96.44.141.58:6038/56f8c80500095e642cf2c2235802115a.ts
-AOD350,p2p://96.44.141.58:6038/56f8c7a3000c84aa2cf1441e7ba4573c.ts#p2p://96.44.141.58:6038/56f8c768000b8d182cf05d68310f353d.ts
-AOD351,p2p://96.44.141.58:6038/56f8c72c000f2d262cef73f4417d79cf.ts#p2p://96.44.141.58:6038/56fc0f67000c101139c199a1348f5efc.ts
-AOD361,p2p://96.44.141.58:6038/56f8c6f20008a7d82cee8fbe05fc507a.ts#p2p://96.44.141.58:6038/56fc0eef000968e039bfc43942070910.ts
-ASTRO ARENA,p2p://122.114.113.182:9999/56f8a7eb000458fe2c755b4428344e4a
-SCTV,http://livestreaming-a.production.liputan6.static6.com/i/sctv_1@137582/index_360_av-p.m3u8?sd=10&rebase=on
-INDOSIAR,http://tv.vidiostream.com/i/indosiar_1@137582/index_360_av-p.m3u8?sd=10&rebase=on
-MNC,http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8
-RCTI,http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
-GLOBAL TV,http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index1024.m3u8
-ASTRO SUPERSPORT 1,p2p://96.44.141.58:6038/56f8a7b6000e961d2c748ee172dc6e62.ts#p2p://96.44.141.58:6038/56f8a73c0001d07b2c72af0e27126364.ts#p2p://96.44.141.58:6038/56fc0c090007a20139b47149141d044c.ts#p2p://204.45.253.189:9999/56fa30ef000097d41e5ab70e4587138a
-ASTRO SUPERSPORT 2,p2p://96.44.141.58:6038/56f8a6fb000c3db52c71b3cf4e0a006d.ts
-ASTRO SUPERSPORT 3,p2p://96.44.141.58:6038/572cc47c000c77735bf6f12431721ca1.ts#p2p://96.44.141.58:6038/56f8a77a000958822c73a32c01251bc1.ts#p2p://96.44.141.58:6038/56f8a6b70000a5382c70a7321fb211a4.ts#p2p://96.44.141.58:6038/56fc0b63000d707039b1ea5e7d3959db.ts
-ASTRO SUPERSPORT 4,p2p://96.44.141.58:6038/56f8a660000c3a532c6f56543f967ada.ts#p2p://204.45.253.189:9999/56fa1659000123121df2dd4165e8232b
-ASTRO EURO1,p2p://96.44.141.58:6038/57555ed10006302a5855e49447825b07.ts#p2p://96.44.141.58:6038/57526adc0005b5224ccd529522ec4455.ts
-ASTRO EURO2,p2p://96.44.141.58:6038/57555efa0000bee75856836220e848e6.ts#p2p://96.44.141.58:6038/575324600008c3f14fa1fef972b31d8f.ts#p2p://96.44.141.58:6038/575324280009152f4fa12454280e68e1.ts
-WWE,p2p://96.44.141.58:6038/56f8a5ae0003adfe2c6c9cd56da3040b.ts
-FOX SPORTS 1,p2p://96.44.141.58:6038/56f8a566000674822c6b84477485461c.ts#p2p://96.44.141.58:6038/56fc0ca2000b42c639b6c7e10afb3f5b.ts
-FOX SPORTS 2,p2p://96.44.141.58:6038/56f8a51900007f682c6a55f61378175a.ts
-FOX SPORTS 3,p2p://204.45.253.189:9999/56fa30ef000336251e5ab7b96f9f0252
-SONY SIX,p2p://96.44.141.58:6038/56f8a31c000633fc2c6293255db73eb0.ts
-SKYNET SPORTS HD,p2p://60.249.213.25:9900/562ca9b1000b3da53a1a28c52580774e.ts#p2p://122.114.113.182:9999/575972830009b8c55d88c4c77b24480b#p2p://122.114.113.182:9999/56fa41a00003223f00fae1e962a41474
-SKYNET SPORTS 1,p2p://60.249.213.25:9900/562a3e84000b962c30a75ee14190079a.ts#p2p://106.186.121.94:8258/562a415f00098d20dff90d9039aa3d33.ts
-SKYNET SPORTS 2,p2p://60.249.213.25:9900/562a3ee300075dc630a8d0e4678b6f5e.ts#p2p://106.186.121.94:8258/562a422d000d55badffc332924806613.ts
-SKYNET SPORTS 3,p2p://60.249.213.25:9900/562a3efb000b81e230a92fa767356e4d.ts#p2p://106.186.121.94:8258/562a42bb000deb23dffe5e002748692b.ts
-SKYNET SPORTS 4,p2p://60.249.213.25:9900/562a3f15000d029f30a9959a0ded52f9.ts#p2p://106.186.121.94:8258/562a42ff000d734bdfff6782492c621b.ts
-SKYNET SPORTS 5,p2p://60.249.213.25:9900/562a48fc0005d2a530d0421e1e1502d5.ts#p2p://106.186.121.94:8258/562ad052000dc904e22773dc6b701433.ts
-SKYNET SPORTS 6,p2p://60.249.213.25:9900/562a4915000497e730d0a37f6ff0254f.ts#p2p://106.186.121.94:8258/562ad0dc000a6b76e2298e1032c2455b.ts
-MOTOGP LIVE,http://paris.dornastream.com/Live/mystream/index.m3u8
-SPORTSNET WORLD,http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.m3u8
-BEIN MAX 1,http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/284.ts#http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/107.ts
-BEIN MAX 2,http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/284.ts#http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/108.ts
-MOTORVISION,http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/247.ts
-HBO HD,p2p://122.114.113.182:9999/575972830005ab2c5d88c3bd3eb51bda#p2p://122.114.113.182:9999/4ca8a1a305db75a34d7333a0fe6e8358#p2p://122.114.113.182:9999/56fa40d5000472e500f7c9471a57f4e4#p2p://122.114.113.182:9999/56f8bcb50000245f2cc68f4016b42fed#p2p://122.114.113.182:9999/4ca8a1a305db75a34d7333a0fe6e8358#p2p://122.114.113.182:9999/56f8bcb50000245f2cc68f4016b42fed
-FOX MOVIES FAMILY,p2p://122.114.113.182:9999/56f8bcfb000364772cc7a1881fbc40fb#p2p://96.44.141.58:6038/56f8bc81000f09312cc5c7ec7831629#p2p://106.186.121.94:8260/560787430000be3b5852f86213f23709
-f.ts#p2p://106.186.121.94:8260/560787430000be3b5852f86213f23709#p2p://122.114.113.182:9999/56f8bcfb000364772cc7a1881fbc40fb
-FOX PREMIUM MOVIES,p2p://122.114.113.182:9999/56f8bc81000f09312cc5c7ec7831629f#p2p://96.44.141.58:6038/573c270a000f06d40026215656a354fb.ts
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>[B][I][COLOR lime]Last Update: April 2017[/COLOR][/I][/B]</title>
+<link>http://ignoreme</link>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV1[/COLOR]</title>
+<link>http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV2[/COLOR]</title>
+<link>http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AL-HIJRAH[/COLOR]</title>
+<link>http://tvah-cdn.mynexa.my/tvahlive/smil:liveattvah.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVi[/COLOR]</title>
+<link>http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MUZIK AKTIF[/COLOR]</title>
+<link>http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/muzikaktif_zpswj4untkz.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]1 NEWS[/COLOR]</title>
+<link>http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/1news_zpsdlajzziq.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RTM PARLIMEN[/COLOR]</title>
+<link>http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b950000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV IKIM[/COLOR]</title>
+<link>rtmp://cdnvideo.webvideocore.net:1935/tv10nl playpath=42DG7ABF94HAC4G.tv swfUrl=http://play.webvideocore.net/player3.swf/[[DYNAMIC]]/1 pageUrl=http://www.layarku.tv/tvikim.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvikim_zpsfj04rhya.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]MARA TV[/COLOR]</title>
+<link>http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/maratv_zpsees3ljuu.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERNAMA TV[/COLOR]</title>
+<link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ASTRO AWANI[/COLOR]</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ASTRO OASIS[/COLOR]</title>
+<link>http://bit.ly/astro-OASIS</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/106_300.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ASTRO ARENA[/COLOR]</title>
+<link>http://bit.ly/astro-ARENA</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/801_300.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ASTRO PRIMA[/COLOR]</title>
+<link>http://bit.ly/astro-PRIMA</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/105_300.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ASTRO WARNA[/COLOR]</title>
+<link>http://bit.ly/astro-WARNA</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/132_300.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ASTRO RIA[/COLOR]</title>
+<link>http://bit.ly/astro-RIA</link>
+<thumbnail>http://prominentpr.com/wp-content/uploads/2013/01/astro-ceria.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ASTRO CERIA[/COLOR]</title>
+<link>http://www.layarku.tv/media/ceria.m3u8</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/106_300.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ASTRO SUPERSPORT 1[/COLOR]</title>
+<link>http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/13664.ts</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/106_300.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ASTRO SUPERSPORT 2[/COLOR]</title>
+<link>http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/13665.ts</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/106_300.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ASTRO SUPERSPORT 3[/COLOR]</title>
+<link>http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/13666.ts</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/106_300.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ASTRO SUPERSPORT 4[/COLOR]</title>
+<link>http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/13667.ts</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/106_300.png</thumbnail>
+</item>

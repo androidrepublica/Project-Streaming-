@@ -5,7 +5,7 @@
 #EXTINF:-1,[COLOR cyan][B]---------- RADIO NEGERI ----------[/B][/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1,[COLOR=cyan]ERA FM[/COLOR]
+#EXTINF:-1,[COLOR=cyan]ERA FM[/COLOR] "tvg-logo="http://www.lyngsat-logo.com/hires/ee/ era_astro.png"
 http://astro2.rastream.com/era?type=.flv
 
 #EXTINF:-1,[COLOR=cyan]HOT FM[/COLOR]

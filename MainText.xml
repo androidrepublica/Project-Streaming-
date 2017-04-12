@@ -36,9 +36,9 @@
 
 <channel>
 <name>Telemovie</name>
-<thumbnail>https://github.com/AbeKodi/MyPicture/blob/master/Drama.png?raw=true</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/AbeKodi/MyPicture/master/Family.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/AbeKodi/Project-Streaming-/master/Telemovie.xml</externallink>
-<fanart>https://raw.githubusercontent.com/AbeKodi/MyPicture/master/Family.png</fanart>
+<fanart>https://raw.githubusercontent.com/AbeKodi/MyPicture/master/fanart.jpg</fanart>
 <info>androidrepublica.com</info>
 </channel>  
   

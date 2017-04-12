@@ -3,51 +3,50 @@
 
 <channels>
 <channel>
-<name>Live TV</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<name>Live TV Malaysia</name>
+<thumbnail>https://github.com/AbeKodi/MyPicture/blob/master/Television.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/AbeKodi/Project-Streaming-/master/tibi_malaysia.xml</externallink>
+<fanart>https://github.com/AbeKodi/MyPicture/raw/master/fanart.jpg</fanart>
 <info>androidrepublica.com</info>
 </channel>
 
 <channel>
 <name>Radio</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://github.com/AbeKodi/MyPicture/blob/master/Iron_Radio.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/AbeKodi/Project-Streaming-/master/radio_malaysia.xml</externallink>
+<fanart>https://github.com/AbeKodi/MyPicture/raw/master/fanart.jpg</fanart>
 <info>androidrepublica.com</info>
 </channel>
 
 <channel>
 <name>Filem Melayu</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://github.com/AbeKodi/MyPicture/blob/master/my.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/AbeKodi/Project-Streaming-/master/pilem_malaya.xml</externallink>
+<fanart>https://github.com/AbeKodi/MyPicture/raw/master/fanart.jpg</fanart>
 <info>androidrepublica.com</info>
 </channel>
 
-<channels>
 <channel>
 <name>Drama</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://github.com/AbeKodi/MyPicture/blob/master/Drama.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/AbeKodi/Project-Streaming-/master/drama_melayu.xml</externallink>
+<fanart>https://github.com/AbeKodi/MyPicture/raw/master/fanart.jpg</fanart>
 <info>androidrepublica.com</info>
 </channel>
 
 <channel>
 <name>English Movie</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://github.com/AbeKodi/MyPicture/blob/master/english%20movie.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/AbeKodi/Project-Streaming-/master/2017_english%20movie.xml</externallink>
+<fanart>https://github.com/AbeKodi/MyPicture/raw/master/fanart.jpg</fanart>
 <info>androidrepublica.com</info>
 </channel>
 
 <channel>
 <name>Indonesia Movie</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://github.com/AbeKodi/MyPicture/blob/master/id.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/AbeKodi/Project-Streaming-/master/yindon.xml</externallink>
+<fanart>https://github.com/AbeKodi/MyPicture/raw/master/fanart.jpg</fanart>
 <info>androidrepublica.com</info>
 </channel>
 

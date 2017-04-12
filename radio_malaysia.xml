@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-<item>
-<title>[B][I][COLOR lightgreen]Last Update: March 2017[/COLOR][/I][/B]</title>
-<link>http://ignoreme</link>
-<thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ERA FM[/COLOR]</title>
-<link>http://astro2.rastream.com/era?type=.flv</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HOT FM[/COLOR]</title>
-<link>http://9453.live.streamtheworld.com:3690/HOTFMAAC?type=.flV</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
-</item>
-
 #EXTM3U
+
+#EXTINF:-1,[COLOR cyan][B]---------- RADIO NEGERI ----------[/B][/COLOR]
+http://www.youtube.com/
 
 #EXTINF:-1,[COLOR=cyan]ERA FM[/COLOR]
 http://astro2.rastream.com/era?type=.flv

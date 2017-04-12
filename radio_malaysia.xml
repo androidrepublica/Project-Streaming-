@@ -7,8 +7,14 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV1[/COLOR]</title>
-<link>http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ERA FM[/COLOR]</title>
+<link>http://astro2.rastream.com/era?type=.flv</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HOT FM[/COLOR]</title>
+<link>http://9453.live.streamtheworld.com:3690/HOTFMAAC?type=.flV</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 

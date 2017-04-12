@@ -11,7 +11,7 @@
 </channel>
 
 <channel>
-<name>Movies</name>
+<name>Radio</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
@@ -19,11 +19,37 @@
 </channel>
 
 <channel>
-<name>Youtube</name>
+<name>Filem Melayu</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
+
+<channels>
+<channel>
+<name>Drama</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>English Movie</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Karaoke</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
 
 </channels>

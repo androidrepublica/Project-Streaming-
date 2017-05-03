@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<addon id="plugin.video.androidrepublica" 
+       name="Androidrepublica"
+       version="1.0.0"
+       provider-name="androidrepublica">
+
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />    
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+        <summary lang="en">androidrepublica.com</summary>
+        <description lang="en">Fork code based on livestreamspro by Shani. Thank you for all the developer that contribute to this addon. Support us at facebook - Kodi IPTV Malaysia v2</description>
+  	<disclaimer lang="en"></disclaimer>
+  	<platform>all</platform>
+  	<language>en</language>
+    <website>http://androidrepublica.com</website>
+  	<email>admin@androidrepublica.com</email>
+  	<source></source>
+  </extension>
+</addon>
